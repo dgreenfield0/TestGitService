@@ -1,4 +1,4 @@
-{
+usertest({
   "cols": [
         {"id":"","label":"Topping","pattern":"","type":"string"},
         {"id":"","label":"Slices","pattern":"","type":"number"}
@@ -10,4 +10,4 @@
         {"c":[{"v":"Zucchini","f":null},{"v":1,"f":null}]},
         {"c":[{"v":"Pepperoni","f":null},{"v":2,"f":null}]}
       ]
-}
+})
