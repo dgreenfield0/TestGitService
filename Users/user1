@@ -1,7 +1,7 @@
 usertest({
      cols: [{id: 'task', label: 'Employee Name', type: 'string'},
             {id: 'startDate', label: 'Start Date', type: 'date'}],
-     rows: [{c:[{v: 'new Date(2008, 1, 28)'}, {v: 'Test', f:'February 28, 2008'}]},
+     rows: [{c:[{v: 'new Date(2008, 1, 28)',  f:'February 28, 2008'}, {v: 'Test'}]},
             {c:[{v: 'new Date(2007, 5, 1)'}, {v: 'Test2'}]},
             {c:[{v: 'new Date(2006, 7, 16)'}, {v: 'Test3'}]},
             {c:[{v: 'new Date(2007, 11, 28)'}, {v: 'Test4'}]},
