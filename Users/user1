@@ -1,8 +1,8 @@
 usertest({
   "cols": [
-        {"id":"Test","label":"MassIndex","pattern":"","type":"string"},
-        {"id":"Test2","label":"Dow","pattern":"","type":"number"}
-        {"id":"Test2","label":"Nasdaq","pattern":"","type":"number"}
+        {"label":"MassIndex","pattern":"","type":"string"},
+        {"label":"Dow","pattern":"","type":"number"}
+        {"label":"Nasdaq","pattern":"","type":"number"}
       ],
   "rows": [
         {"c":[{"v":"Mushrooms","f":null},{"v":3,"f":null}]},
