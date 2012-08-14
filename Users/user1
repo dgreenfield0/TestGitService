@@ -1,7 +1,8 @@
 usertest({
   "cols": [
-        {"id":"Test","label":"Topping","pattern":"","type":"string"},
-        {"id":"Test2","label":"Slices","pattern":"","type":"number"}
+        {"id":"Test","label":"MassIndex","pattern":"","type":"string"},
+        {"id":"Test2","label":"Dow","pattern":"","type":"number"}
+        {"id":"Test2","label":"Nasdaq","pattern":"","type":"number"}
       ],
   "rows": [
         {"c":[{"v":"Mushrooms","f":null},{"v":3,"f":null}]},
