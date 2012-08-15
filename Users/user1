@@ -2,9 +2,9 @@ usertest({
     "cols": [
         {
             "id": "",
-            "label": "Date",
+            "label": "Year",
             "pattern": "",
-            "type": "number"
+            "type": "String"
         },{
             "id": "",
             "label": "MassIndex",
