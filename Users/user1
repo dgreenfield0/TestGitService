@@ -1,13 +1,13 @@
 usertest(
    {
-     cols: [{id: 'task', label: 'Employee Name', type: 'string'},
+     cols: [{id: 'task', label: 'Year', type: 'string'},
             {id: 'startDate', label: 'Start Date', type: 'date'}],
-     rows: [{c:[{v: 'Mike'}, {v: new Date(2008, 1, 28), f:'February 28, 2008'}]},
-            {c:[{v: 'Bob'}, {v: new Date(2007, 5, 1)}]},
-            {c:[{v: 'Alice'}, {v: new Date(2006, 7, 16)}]},
-            {c:[{v: 'Frank'}, {v: new Date(2007, 11, 28)}]},
-            {c:[{v: 'Floyd'}, {v: new Date(2005, 3, 13)}]},
-            {c:[{v: 'Fritz'}, {v: new Date(2011, 6, 1)}]}
+     rows: [{c:[{v: 'Jan'}, {v: new Date(2008, 1, 28), f:'February 28, 2008'}]},
+            {c:[{v: 'Feb'}, {v: new Date(2007, 5, 1)}]},
+            {c:[{v: 'Mar'}, {v: new Date(2006, 7, 16)}]},
+            {c:[{v: 'Apr'}, {v: new Date(2007, 11, 28)}]},
+            {c:[{v: 'May'}, {v: new Date(2005, 3, 13)}]},
+            {c:[{v: 'June'}, {v: new Date(2011, 6, 1)}]}
            ]
    }
 );
