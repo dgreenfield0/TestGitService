@@ -1,7 +1,7 @@
 usertest(
    {
      cols: [{id: 'task', label: 'Year', type: 'date'},
-            {id: 'startDate', label: 'Start Date', type: 'String'}],
+            {id: 'startDate', label: 'Start Date', type: 'number'}],
      rows: [{c:[{v: 'Jan'}, {v:'20']},
             {c:[{v: 'Feb'}, {v:'30'}]},
             {c:[{v: 'Mar'}, {v:'40'}]},
