@@ -2,7 +2,7 @@ usertest({
     "cols": [
         {
             "id": "",
-            "label": "",
+            "label": "test",
             "pattern": "",
             "type": "number"
         },{
