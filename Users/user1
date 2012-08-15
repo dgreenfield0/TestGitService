@@ -7,6 +7,11 @@ usertest({
             "type": "number"
         },{
             "id": "",
+            "label": "MassIndex",
+            "pattern": "",
+            "type": "number"
+        },{
+            "id": "",
             "label": "Nasdaq",
             "pattern": "",
             "type": "number"
