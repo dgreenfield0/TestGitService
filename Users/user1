@@ -7,7 +7,13 @@ usertest(
             {c:[{v: 'Mar'}, {v: new Date(2006, 7, 16)}]},
             {c:[{v: 'Apr'}, {v: new Date(2007, 11, 28)}]},
             {c:[{v: 'May'}, {v: new Date(2005, 3, 13)}]},
-            {c:[{v: 'June'}, {v: new Date(2011, 6, 1)}]}
+            {c:[{v: 'Jun'}, {v: new Date(2011, 6, 1)}]}
+            {c:[{v: 'Jul'}, {v: new Date(2011, 6, 1)}]}
+            {c:[{v: 'Aug'}, {v: new Date(2011, 6, 1)}]}
+            {c:[{v: 'Sep'}, {v: new Date(2011, 6, 1)}]}
+            {c:[{v: 'Oct'}, {v: new Date(2011, 6, 1)}]}
+            {c:[{v: 'Nov'}, {v: new Date(2011, 6, 1)}]}
+            {c:[{v: 'Dec'}, {v: new Date(2011, 6, 1)}]}
            ]
    }
 );
