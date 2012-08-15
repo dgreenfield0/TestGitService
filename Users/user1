@@ -1,19 +1,19 @@
 usertest(
    {
-     cols: [{id: 'task', label: 'Year', type: 'string'},
-            {id: 'startDate', label: 'Start Date', type: 'date'}],
-     rows: [{c:[{v: 'Jan'}, {v: new Date(2008, 1, 28), f:'February 28, 2008'}]},
-            {c:[{v: 'Feb'}, {v: new Date(2007, 5, 1)}]},
-            {c:[{v: 'Mar'}, {v: new Date(2006, 7, 16)}]},
-            {c:[{v: 'Apr'}, {v: new Date(2007, 11, 28)}]},
-            {c:[{v: 'May'}, {v: new Date(2005, 3, 13)}]},
-            {c:[{v: 'Jun'}, {v: new Date(2011, 6, 1)}]},
-            {c:[{v: 'Jul'}, {v: new Date(2011, 6, 1)}]},
-            {c:[{v: 'Aug'}, {v: new Date(2011, 6, 1)}]},
-            {c:[{v: 'Sep'}, {v: new Date(2011, 6, 1)}]},
-            {c:[{v: 'Oct'}, {v: new Date(2011, 6, 1)}]},
-            {c:[{v: 'Nov'}, {v: new Date(2011, 6, 1)}]},
-            {c:[{v: 'Dec'}, {v: new Date(2011, 6, 1)}]}
+     cols: [{id: 'task', label: 'Year', type: 'date'},
+            {id: 'startDate', label: 'Start Date', type: 'String'}],
+     rows: [{c:[{v: 'Jan'}, {v:'20']},
+            {c:[{v: 'Feb'}, {v:'30'}]},
+            {c:[{v: 'Mar'}, {v:'40'}]},
+            {c:[{v: 'Apr'}, {v:'60'}]},
+            {c:[{v: 'May'}, {v:'50'}]},
+            {c:[{v: 'Jun'}, {v:'40'}]},
+            {c:[{v: 'Jul'}, {v:'80'}]},
+            {c:[{v: 'Aug'}, {v:'90'}]},
+            {c:[{v: 'Sep'}, {v:'30'}]},
+            {c:[{v: 'Oct'}, {v:'40'}]},
+            {c:[{v: 'Nov'}, {v:'20'}]},
+            {c:[{v: 'Dec'}, {v:'10'}]}
            ]
    }
 );
