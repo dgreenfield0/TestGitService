@@ -2,6 +2,12 @@ usertest({
     "cols": [
         {
             "id": "",
+            "label": "",
+            "pattern": "",
+            "type": "number"
+        },{
+        {
+            "id": "",
             "label": "MassIndex",
             "pattern": "",
             "type": "number"
