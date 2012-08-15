@@ -7,7 +7,7 @@ usertest({
         {"c":[{"v":"Mushrooms","f":null},{"v":45,"f":null}]},
         {"c":[{"v":"Onions","f":null},{"v":40,"f":null}]},
         {"c":[{"v":"Olives","f":null},{"v":42,"f":null}]},
-        {"c":[{"v":"Zucchini","f":null},{"v":38,"f":null}]},
-        {"c":[{"v":"Pepperoni","f":null},{"v":40,"f":null}]}
+        {"c":[{"v":"Zucchini","f":null},{"v":44,"f":null}]},
+        {"c":[{"v":"Pepperoni","f":null},{"v":49,"f":null}]}
       ]
 });
