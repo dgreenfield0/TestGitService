@@ -5,9 +5,14 @@ usertest({
             "label": "MassIndex",
             "pattern": "",
             "type": "number"
-        },        {
+        },{
             "id": "",
-            "label": "Test",
+            "label": "Nasdaq",
+            "pattern": "",
+            "type": "number"
+        },{
+            "id": "",
+            "label": "S&P",
             "pattern": "",
             "type": "number"
         }
