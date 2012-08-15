@@ -17,11 +17,9 @@ usertest({
             "c": [
                 {
                     "v": "Jan",
-                    "f": 1
                 },
                 {
                     "v": 45,
-                    "f": 2
                 }
             ]
         },
@@ -29,11 +27,9 @@ usertest({
             "c": [
                 {
                     "v": "Feb",
-                    "f": null
                 },
                 {
                     "v": 40,
-                    "f": null
                 }
             ]
         },
@@ -41,11 +37,9 @@ usertest({
             "c": [
                 {
                     "v": "Mar",
-                    "f": null
                 },
                 {
                     "v": 42,
-                    "f": null
                 }
             ]
         },
@@ -53,11 +47,9 @@ usertest({
             "c": [
                 {
                     "v": "Apr",
-                    "f": null
                 },
                 {
                     "v": 44,
-                    "f": null
                 }
             ]
         },
@@ -65,11 +57,9 @@ usertest({
             "c": [
                 {
                     "v": "Jun",
-                    "f": null
                 },
                 {
                     "v": 49,
-                    "f": null
                 }
             ]
         },
@@ -77,11 +67,9 @@ usertest({
             "c": [
                 {
                     "v": "Jul",
-                    "f": null
                 },
                 {
                     "v": 49,
-                    "f": null
                 }
             ]
         },
@@ -89,11 +77,10 @@ usertest({
             "c": [
                 {
                     "v": "Aug",
-                    "f": null
+
                 },
                 {
                     "v": 49,
-                    "f": null
                 }
             ]
         },
@@ -101,44 +88,36 @@ usertest({
             "c": [
                 {
                     "v": "Sep",
-                    "f": null
                 },
                 {
                     "v": 49,
-                    "f": null
                 }
             ]
         },        {
             "c": [
                 {
                     "v": "Oct",
-                    "f": null
                 },
                 {
                     "v": 49,
-                    "f": null
                 }
             ]
         },        {
             "c": [
                 {
                     "v": "Nov",
-                    "f": null
                 },
                 {
                     "v": 49,
-                    "f": null
                 }
             ]
         },        {
             "c": [
                 {
                     "v": "Dec",
-                    "f": null
                 },
                 {
                     "v": 49,
-                    "f": null
                 }
             ]
         }
