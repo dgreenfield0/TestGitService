@@ -22,7 +22,7 @@ usertest({
         {
             "c": [
                 {
-                    "v": "Mushrooms",
+                    "v": "Jan",
                     "f": null
                 },
                 {
@@ -34,7 +34,7 @@ usertest({
         {
             "c": [
                 {
-                    "v": "Onions",
+                    "v": "Feb",
                     "f": null
                 },
                 {
@@ -46,7 +46,7 @@ usertest({
         {
             "c": [
                 {
-                    "v": "Olives",
+                    "v": "Mar",
                     "f": null
                 },
                 {
@@ -58,7 +58,7 @@ usertest({
         {
             "c": [
                 {
-                    "v": "Zucchini",
+                    "v": "Apr",
                     "f": null
                 },
                 {
@@ -70,7 +70,18 @@ usertest({
         {
             "c": [
                 {
-                    "v": "Pepperoni",
+                    "v": "Jun",
+                    "f": null
+                },
+                {
+                    "v": 49,
+                    "f": null
+                }
+            ]
+        },        {
+            "c": [
+                {
+                    "v": "Jul",
                     "f": null
                 },
                 {
