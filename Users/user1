@@ -2,7 +2,7 @@ usertest({
     "cols": [
         {
             "id": "",
-            "label": "MassIndex",
+            "label": "Date",
             "pattern": "",
             "type": "number"
         },{
@@ -27,7 +27,9 @@ usertest({
             "c": [
                 {
                     "v": "Jan",
-                    "f": 2
+                    "f": 22,
+                    "g": 34,
+                    "h": 23
                 },
                 {
                     "v": 45,
