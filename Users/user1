@@ -1,13 +1,83 @@
 usertest({
-  "cols": [
-        {"id":"","label":"Time","pattern":"","type":"string"},
-        {"id":"","label":"MassIndex","pattern":"","type":"number"}
-      ],
-  "rows": [
-        {"c":[{"v":"Mushrooms","f":null},{"v":45,"f":null}]},
-        {"c":[{"v":"Onions","f":null},{"v":40,"f":null}]},
-        {"c":[{"v":"Olives","f":null},{"v":42,"f":null}]},
-        {"c":[{"v":"Zucchini","f":null},{"v":44,"f":null}]},
-        {"c":[{"v":"Pepperoni","f":null},{"v":49,"f":null}]}
-      ]
+    "cols": [
+        {
+            "id": "",
+            "label": "Time",
+            "pattern": "",
+            "type": "string"
+        },
+        {
+            "id": "",
+            "label": "MassIndex",
+            "pattern": "",
+            "type": "number"
+        },        {
+            "id": "",
+            "label": "Test",
+            "pattern": "",
+            "type": "number"
+        }
+    ],
+    "rows": [
+        {
+            "c": [
+                {
+                    "v": "Mushrooms",
+                    "f": null
+                },
+                {
+                    "v": 45,
+                    "f": null
+                }
+            ]
+        },
+        {
+            "c": [
+                {
+                    "v": "Onions",
+                    "f": null
+                },
+                {
+                    "v": 40,
+                    "f": null
+                }
+            ]
+        },
+        {
+            "c": [
+                {
+                    "v": "Olives",
+                    "f": null
+                },
+                {
+                    "v": 42,
+                    "f": null
+                }
+            ]
+        },
+        {
+            "c": [
+                {
+                    "v": "Zucchini",
+                    "f": null
+                },
+                {
+                    "v": 44,
+                    "f": null
+                }
+            ]
+        },
+        {
+            "c": [
+                {
+                    "v": "Pepperoni",
+                    "f": null
+                },
+                {
+                    "v": 49,
+                    "f": null
+                }
+            ]
+        }
+    ]
 });
