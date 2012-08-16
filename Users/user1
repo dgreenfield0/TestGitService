@@ -1,7 +1,7 @@
 usertest(
      {
        cols: [{id: 'task', label: 'Task', type: 'string'},
-                {id: 'hours', label: 'Mass Index', type: 'number'}],
+              {id: 'hours', label: 'Mass Index', type: 'number'}],
        rows: [{c:[{v: 'Jan'}, {v: 45}]},
               {c:[{v: 'Feb'}, {v: 43.2}]},
               {c:[{v: 'Mar'}, {v: 48.2}]},
@@ -15,24 +15,5 @@ usertest(
               {c:[{v: 'Nov'}, {v:48.3}]},
               {c:[{v: 'Dec'}, {v:53, f:'7.000'}]}
              ]
-
-     },
-     {
-       cols: [{id: 'task', label: 'Task', type: 'string'},
-                {id: 'hours', label: 'Nasdaq', type: 'number'}],
-       rows: [{c:[{v: 'Jan'}, {v: 5}]},
-              {c:[{v: 'Feb'}, {v: 3.2}]},
-              {c:[{v: 'Mar'}, {v: 8.2}]},
-              {c:[{v: 'Apr'}, {v:2.2}]},
-              {c:[{v: 'May'}, {v:2.9}]},
-              {c:[{v: 'Jun'}, {v:8.2}]},
-              {c:[{v: 'Jul'}, {v:1}]},
-              {c:[{v: 'Aug'}, {v:44.2}]},
-              {c:[{v: 'Sep'}, {v:47}]},
-              {c:[{v: 'Oct'}, {v:50}]},
-              {c:[{v: 'Nov'}, {v:48.3}]},
-              {c:[{v: 'Dec'}, {v:53, f:'7.000'}]}
-             ]
-
      }
 );
