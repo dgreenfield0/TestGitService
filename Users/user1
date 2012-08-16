@@ -3,7 +3,7 @@ usertest(
        cols: [
                {id: '', label: 'Task', type: 'string'},
                {id: '', label: 'Mass Index', type: 'number'},
-               {id: '', label: 'Mass', type: 'number'}
+               {id: '', label: 'Nasdaq', type: 'number'}
                ],
        rows: [{c:[{v: 'Jan'},{v:45},{v:40}]},
               {c:[{v: 'Feb'},{v:43},{v:40}]},
