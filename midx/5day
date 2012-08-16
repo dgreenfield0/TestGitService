@@ -1,6 +1,6 @@
 usertest(
-     {
-       cols: [
+	{
+	cols: [
                {id: '', label: 'Task', type: 'string'},
                {id: '', label: 'Mass Index', type: 'number'},
                {id: '', label: 'Nasdaq', type: 'number'},
