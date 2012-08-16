@@ -4,6 +4,8 @@ usertest(
                {id: '', label: 'Task', type: 'string'},
                {id: '', label: 'Mass Index', type: 'number'},
                {id: '', label: 'Nasdaq', type: 'number'}
+               {id: '', label: 'S&P', type: 'number'}
+               {id: '', label: 'Dow', type: 'number'}
                ],
        rows: [{c:[{v: 'Jan'},{v:45},{v:40}]},
               {c:[{v: 'Feb'},{v:43},{v:40}]},
