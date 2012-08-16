@@ -1,10 +1,10 @@
 usertest(
-     {
-       cols: [
-               {id: '', label: 'Task', type: 'string'},
-               {id: '', label: 'Mass Index', type: 'number'},
-               {id: '', label: 'Nasdaq', type: 'number'}
-               ],
+{
+“cols”: [
+{"id":"","label":"year","type":"string"},
+{"id":"","label":"sales","type":"number"},
+{"id":"","label":"expenses","type":"number"}
+],
 “rows”: [
 {"c":[{"v":"2001"},{"v":3},{"v":5}]},
 {“c”:[{"v":"2002"},{"v":5},{"v":10}]},
@@ -12,4 +12,5 @@ usertest(
 {“c”:[{"v":"2004"},{"v":8},{"v":32}]},
 {“c”:[{"v":"2005"},{"v":3},{"v":56}]}
 ]
+}
 );
