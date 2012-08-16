@@ -5,7 +5,7 @@ usertest(
                {id: '', label: 'Mass Index', type: 'number'},
                {id: '', label: 'Mass', type: 'number'}
                ],
-       rows: [{c:[{v: 'Jan'},{v:45}]},
+       rows: [{c:[{v: 'Jan'},{v:45},{v:40}]},
               {c:[{v: 'Feb'},{v:43}]},
               {c:[{v: 'Mar'},{v:48}]},
               {c:[{v: 'Apr'},{v:22}]},
