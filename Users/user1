@@ -1,7 +1,7 @@
 usertest(
      {
        cols: [{id: 'task', label: 'Task', type: 'string'},
-                {id: 'hours', label: 'Hours per Day', type: 'number'}],
+                {id: 'hours', label: 'Mass Index', type: 'number'}],
        rows: [{c:[{v: 'Jan'}, {v: 11}]},
               {c:[{v: 'Feb'}, {v: 2}]},
               {c:[{v: 'Mar'}, {v: 2}]},
