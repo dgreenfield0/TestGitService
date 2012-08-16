@@ -8,5 +8,5 @@ usertest(
               {c:[{v: 'Watch TV'}, {v:2}]},
               {c:[{v: 'Sleep'}, {v:7, f:'7.000'}]}
              ]
-     },
+     }
 );
