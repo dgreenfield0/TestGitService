@@ -1,0 +1,18 @@
+usertest(
+     {
+       cols: [
+               {id: '', label: 'Task', type: 'string'},
+               {id: '', label: 'Mass Index', type: 'number'},
+               {id: '', label: 'Nasdaq', type: 'number'},
+               {id: '', label: "S&P", type: 'number'},
+               {id: '', label: 'Dow', type: 'number'}
+               ],
+       rows: [
+			  {c:[{v: 'Mon'},{v:45},{v:30},{v:30},{v:27}]},
+              {c:[{v: 'Tue'},{v:43},{v:42},{v:28},{v:30}]},
+              {c:[{v: 'Wed'},{v:48},{v:44},{v:25},{v:34}]},
+              {c:[{v: 'Thu'},{v:22},{v:41},{v:22},{v:33}]},
+              {c:[{v: 'Fri'},{v:32},{v:40},{v:23},{v:38}]}
+             ]
+     }
+);
