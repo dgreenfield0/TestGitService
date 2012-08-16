@@ -1,6 +1,6 @@
 usertest(
    {
-     cols: [{id: 'task', label: 'Year', type: 'date'},
+     cols: [{id: 'task', label: 'Year', type: 'string'},
             {id: 'startDate', label: 'Start Date', type: 'number'}],
      rows: [{c:[{v: 'Jan'}, {v:'20']},
             {c:[{v: 'Feb'}, {v:'30'}]},
