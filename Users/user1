@@ -3,8 +3,8 @@ usertest(
        cols: [
                {id: '', label: 'Task', type: 'string'},
                {id: '', label: 'Mass Index', type: 'number'},
-               {id: '', label: 'Nasdaq', type: 'number'}
-               {id: '', label: "S%26P", type: 'number'}
+               {id: '', label: 'Nasdaq', type: 'number'},
+               {id: '', label: "S&P", type: 'number'},
                {id: '', label: 'Dow', type: 'number'}
                ],
        rows: [{c:[{v: 'Jan'},{v:45},{v:40}]},
